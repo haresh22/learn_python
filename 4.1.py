@@ -6,7 +6,6 @@ c = int(input("Enetr number between 21 to 30 : "))
 d = 1000
 e = 2000
 
-
 print(a<b and b>a)
 print(b>a and b<c)
 print(c>b and c>a)
