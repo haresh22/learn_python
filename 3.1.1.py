@@ -19,4 +19,4 @@ if c>=35:
 else:
     print("You are Fail ")
 
-print("Total Marks = ", a+b+c // 300 * 100)
+print("Total Marks =",300//a+b+c*100)
