@@ -10,8 +10,8 @@ elif (c>a):
 elif (b>c):
     print("B is Greater than C ") # True 
 elif (a<c):
-    print("A is Greater than C ") # False  
-       
+    print("A is Greater than C ") # False
+           
 print("Rest of the Code ")    
             
         
